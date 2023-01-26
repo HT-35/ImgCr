@@ -1,7 +1,7 @@
 const listImg = [
-    "/P/Screenshot 2023-01-25 144242.png",
-    "/P/Screenshot 2023-01-14 091007.png",
-    "/P/Screenshot 2023-01-10 041250.png"
+    "./P/Screenshot 2023-01-25 144242.png",
+    "./P/Screenshot 2023-01-14 091007.png",
+    "./P/Screenshot 2023-01-10 041250.png"
 ];
 
 let index = 0;
